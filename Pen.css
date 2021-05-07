@@ -3,6 +3,10 @@ h1 {
     background-color:#f3fbff;
 }
 
+li {
+  list-style: none;
+}
+
 input,textarea {
   width:400px;
   margin-top:10px;
