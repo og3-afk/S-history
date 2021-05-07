@@ -48,3 +48,7 @@ input[type="submit"], input[type="reset"], input[type="button"], button{
 
 input::placeholder{
    color:#f0f0f0
+}
+textarea::placeholder{
+    color:#f0f0f0
+}
