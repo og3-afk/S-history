@@ -7,6 +7,29 @@ li {
   list-style: none;
 }
 
+.header {
+  background-color: #e02690;
+  color: #fff;
+  height: 90px;
+}
+
+.header-logo {
+  float: left;
+  font-size: 36px;
+  padding: 20px 40px;
+  font-weight:bold;
+}
+
+.header-logo span {
+    color: #ff4a4a;
+}
+
+.header-list li {
+  float: left;
+  padding: 33px 20px;
+}
+
+
 input,textarea {
   width:400px;
   margin-top:10px;
